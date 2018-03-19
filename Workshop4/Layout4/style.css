@@ -1,0 +1,39 @@
+div{
+    outline: 1px solid lime;
+}
+.container{
+    width: 920px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header{
+    background-color:blue;
+    width: 920px;
+    height: 200px;
+}
+.content{
+    background-color:green;
+    width:920px;
+    height:200px;
+}
+.red{
+    background-color:red;
+    width:920px;
+    height:600px;
+}
+.yellowbox1{
+    background-color:yellow;
+    height:180px;
+    width:444px;
+    float: left;
+    margin-top:10px;
+    margin-left:10px;
+}
+.yellowbox2{
+    background-color:yellow;
+    height:400px;
+    width: 400px;
+    float: left;
+    margin-top:40px;
+    margin-left:40px;
+}
